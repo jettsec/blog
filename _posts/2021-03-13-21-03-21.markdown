@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "210313"
-date:   2021-03-13 17:23:00 +0000
+date:   2021-03-13 17:33:00 +0000
 categories: blog
 ---
 
@@ -9,17 +9,24 @@ categories: blog
 ### Daily Overview
 
 <!-- What was the general overview of the day? Do you feel like it was a productive day? Is there anything about what you did that you would change?-->
+<p>After listening to a talk on Bug Bounties and the CyberSecurity and InfoSec industries, I decided to get serious about the future of my career and organise a place where I can document my jounrey to becoming a CyberSecurity Professional. I created new accounts on GitHub and Twitter in order to document my progress and engage with the community. 
 
+In addition to studying to get my undergraduate degree in Computer Science, I will be working towards earning certifications to become a fully qualified ethical hacker, aiming to follow the path of Network+ -> Security+ -> Linux+ -> Pentest+ -> CySa+ -> OSCP -> CEH.
+
+I finished the setup of this GitHub blog as well as the daily post template. Didn't get any of the Uni work done that I wanted to however will be working on that all day tomorrow. I want to get an early night tonight and start getting up early again. 
+
+</p>
 <br>
 
 ### Studing 
 
 #### Uni
 <!--What uni work did you complete today and what did you learn by doing so? What did you not get finished? What challenges did you face?-->
+<p>Didn't get any Uni work done today. Aiming to not let this happen again and keep on top of all of the things I need to. </p>
 
 #### CyberSecurity
 <!--What CyberSecurity work or practice did you complete today and what did you learn by doing so? What did you not get finished? What challenges did you face?-->
-<p> </p>
+<p>Again, due to a late start and setting everything up to document this process, I didn't get any meaningful studying done. However I will begin studying Network+ along with my Uni work tomorrow </p>
 
 
 <br>
@@ -28,24 +35,24 @@ categories: blog
 
 #### Diet
 <!--What did you eat today? What did you drink today? How many calories did you consume?-->
-<p> </p>
+<p>Ate 2 bagels and Avocado and KS Vegan Mac n Cheese burrito. Most likely going to have takeaway again tonight to celebrate S's new job. Starting tomorrow, no more takeaway food and will eat under my daily calories.  </p>
 
 #### Exercise
 <!--What exercise did you do today? what was your morning weight? How do you feel?-->
-<p> </p>
+<p>Did not complete today - If I want to work in Special CyberSec operations, this needs to change and change fast. I wont go another day without doing physical exercise </p>
 
 #### Meditation
 <!--How long was the meditation? How did you feel afterwards? What wisdom did you gain from the meditation?-->
-<p> </p>
+<p>No meditation yet, however will be doing it later today. Unfortunately this wont be documented today however I am still adjusting to this new schedule and will align future meditation sessions before completing this blog entry for the day. </p>
 
 <br>
 
 ### Milestones
 <!--Did you reach any studying/health milestones?-->
-<p> </p>
+- Completed setup of GitHub and Twitter accounts and created a plan and framework for documenting career progress
 
 <br>
 
 ### General Thoughts
 <!--Do you have any thoughts that are worth sharing about any subject? Use this section like a journal to get anything that may be bothering you off your mind-->
-<p> </p>
+<p>Although today was necessary, I still feel like my time can be utilised much better, however this is the first day and I promise I will make much more progress moving forward. I do feel like I'm falling slightly behind with uni work however I have to remember that all of the work will get done and I will pass all of my classes. There is absolutely no way that I will let myself fail, ever. </p>
