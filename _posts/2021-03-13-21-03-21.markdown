@@ -11,7 +11,14 @@ categories: blog
 <!-- What was the general overview of the day? Do you feel like it was a productive day? Is there anything about what you did that you would change?-->
 <p>After listening to a talk on Bug Bounties and the CyberSecurity and InfoSec industries, I decided to get serious about the future of my career and organise a place where I can document my jounrey to becoming a CyberSecurity Professional. I created new accounts on GitHub and Twitter in order to document my progress and engage with the community. 
 
-In addition to studying to get my undergraduate degree in Computer Science, I will be working towards earning certifications to become a fully qualified ethical hacker, aiming to follow the path of Network+ -> Security+ -> Linux+ -> Pentest+ -> CySa+ -> OSCP -> CEH.
+In addition to studying to get my undergraduate degree in Computer Science, I will be working towards earning certifications to become a fully qualified ethical hacker, aiming to follow the path of: 
+1. Network+ 
+2. Security+ 
+3. Linux+ 
+4. Pentest+ 
+5. CySa+
+6. OSCP
+7. CEH.
 
 I finished the setup of this GitHub blog as well as the daily post template. Didn't get any of the Uni work done that I wanted to however will be working on that all day tomorrow. I want to get an early night tonight and start getting up early again. 
 
