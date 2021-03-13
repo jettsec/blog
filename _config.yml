@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: jettsec - Becoming a Hacker
+title: Becoming a Hacker
 email: jettsec@protonmail.com
 description: >- # this means to ignore newlines until "baseurl:"
  Documenting my journey to becoming a certified ethical hacker and building my career in CyberSec and InfoSec.
