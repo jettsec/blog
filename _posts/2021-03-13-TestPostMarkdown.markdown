@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "EDIT ME"
-date:   2021-03-13 16:34:00 -0000
+date:   2021-03-13 16:34:00 +0000
 categories: test
 ---
 
   
-  This is a test post 
+This is a test post which will be used as a template for future posts. 
