@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "EDIT ME"
-date:   YYYY-MM-DD HH:MM:SS
+date:   2021-03-13 16:34:00
 categories: test
 ---
 
