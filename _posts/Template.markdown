@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "210313"
-date:   2021-03-13 17:23:00 +0000
+title:  "YYMMDD"
+date:   YYYY-MM-DD HH:MM:00 +0000
 categories: blog
 ---
 
