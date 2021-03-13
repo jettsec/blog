@@ -35,8 +35,10 @@ categories: XXXXX
 
 <br>
 
+### Milestones
+<p>Did you reach any studying/health milestones?</p>
+
+<br>
+
 ### General Thoughts
-Do you have any thoughts that are worth sharing about any subject? Use this section like a journal to get anything that may be bothering you off your mind
-
-
-
+<p>Do you have any thoughts that are worth sharing about any subject? Use this section like a journal to get anything that may be bothering you off your mind</p>
